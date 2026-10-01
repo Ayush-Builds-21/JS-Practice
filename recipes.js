@@ -12,3 +12,7 @@ console.log(tests.filter(t => t.accuracy < 92).map(t => t.date));
 
 
 console.log(tests.reduce((sum, t) => sum + t.accuracy ,0));
+
+
+
+const fastTests = (tests)=> tests.filter (t => t.wpm>35);
