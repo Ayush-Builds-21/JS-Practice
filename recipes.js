@@ -16,7 +16,3 @@ console.log(tests.reduce((sum, t) => sum + t.accuracy ,0));
 
 
 const fastTests = (tests)=> tests.filter (t => t.wpm>35);
-
-
-
-Hello my name is ayush prajaptu and currently i want to tell you this is just to test my github skills 
