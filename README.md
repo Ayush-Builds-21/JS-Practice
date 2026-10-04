@@ -34,7 +34,8 @@ My JavaScript learning log while preparing for product and engineering roles.
 * Associate with analogy
 
 
-Learned git pull
+Learned git pull and experimenting with the real useage 
+
 
 
 
