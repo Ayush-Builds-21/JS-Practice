@@ -36,6 +36,11 @@ My JavaScript learning log while preparing for product and engineering roles.
 
 Learned git pull and experimenting with the real useage 
 
+the experience of learinig git pull was amazing when I made mistakes totaly uncoverable with a risk of damaging the repository but found thet ways to complete the task and have a command on this amazing command 
+
+
+
+
 
 
 
